@@ -1,0 +1,1027 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.div1{
+    text-align: center;
+    font-family: sans-serif;
+    padding: 70px;
+    background-color: rgb(31, 28, 28);
+}
+.div1 h1{
+    font-size: 70px ;
+    font-weight: 700;
+    color: white;
+}
+.div1 h5{
+    color: salmon;
+    font-size: 25px;
+}
+header .btn4:hover{
+    background-color: rgb(46, 234, 46);
+}
+form button{
+    background-color: green;
+    color: whitesmoke;
+}
+form input{
+    border-radius: 25px;
+    height: 30px;
+    padding: 10px;
+    width: 250px;
+}
+.div1 a{
+    color: white;
+    font-weight: bold;
+}
+
+/* div2 starts from here */
+.div2{
+    background-color: rgb(172, 236, 172);
+    padding: 50px;
+    display: flex;
+}
+.div2 h1{
+    font-size: 70px ;
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+.div2 .btn1{
+    background-color: rgb(34, 161, 34);
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+.div2 .btn2{
+    background-color: rgb(249, 249, 115);
+    color: black;
+    margin-bottom: 10px;
+
+}
+.div2 .btn3{
+    background-color: black;
+    color: whitesmoke;
+    margin-bottom: 10px;
+
+}
+.div2 .btn4{
+    background-color: rgb(247, 148, 137);
+    color: black;
+}
+.div2 button{
+    border-radius: 20px;
+    font-weight: bold;
+}
+.div2 h5{
+    font-size: 20px;
+}
+.div2 .inner-div1{
+    width: 50%;
+    text-align: center;
+}
+.div2 .inner-div2 {
+    background-color: rgb(207, 207, 207);
+    padding: 30px;
+}
+.div2 .sec{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    overflow-y: scroll;
+    border-left: 5px solid rgb(24, 154, 24);
+}
+
+.div2 .inner-div2>button{
+    margin-top: 10px;
+    background-color: rgb(10, 150, 10);
+    color: white;
+    height: 30px;
+    width: 140px;
+    font-weight: bold;
+}
+
+.div2 .inner-div1>button{
+    height: 30px;
+    width: 170px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* div3 starts from here */
+
+.div3{
+    background-color: rgb(220, 220, 101);
+    padding: 50px;
+    display: flex;
+}
+.div3 h1{
+    font-size: 70px ;
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+.div3 .btn1{
+    background-color: rgb(34, 161, 34);
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+.div3 .btn2{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+
+}
+.div3 .btn3{
+    background-color:rgb(247, 148, 137);
+    color: black;
+    margin-bottom: 10px;
+
+}
+.div3 button{
+    border-radius: 25px;
+    font-weight: bold;
+}
+.div3 h5{
+    font-size: 20px;
+}
+.div3 .inner-div1{
+    width: 50%;
+    text-align: center;
+}
+.div3 .inner-div2 {
+    background-color: rgb(207, 207, 207);
+    padding: 30px;
+}
+.div3 .sec{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    overflow-y: scroll;
+    border-left: 5px solid rgb(28, 169, 28);
+}
+
+.div3 .inner-div2>button{
+    margin-top: 10px;
+    background-color: rgb(18, 152, 18);
+    color: white;
+    height: 30px;
+    width: 140px;
+    font-weight: bold;
+}
+
+.div3 .inner-div1>button{
+    height: 30px;
+    width: 170px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* div4 starts from here */
+
+.div4{
+    background-color: rgb(53, 53, 52);
+    padding: 50px;
+    display: flex;
+}
+.div4 h1{
+    font-size: 70px ;
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+.div4 .btn1{
+    background-color: rgb(34, 161, 34);
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+.div4 .btn2{
+    background-color: whitesmoke;
+    color: black;
+    margin-bottom: 10px;
+
+}
+.div4 .btn3{
+    background-color: rgb(247, 148, 137);
+    color: black;
+    margin-bottom: 10px;
+
+}
+.div4 button{
+    border-radius: 25px;
+    font-weight: bold;
+}
+.div4 h5{
+    font-size: 20px;
+}
+.div4 .inner-div1{
+    width: 50%;
+    text-align: center;
+}
+.div4 .inner-div2 {
+    background-color: rgb(207, 207, 207);
+    padding: 30px;
+}
+.div4 .sec{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    overflow-y: scroll;
+    border-left: 5px solid rgb(28, 169, 28);
+}
+
+.div4 .inner-div2>button{
+    margin-top: 10px;
+    background-color: rgb(18, 152, 18);
+    color: white;
+    height: 30px;
+    width: 140px;
+    font-weight: bold;
+}
+
+.div4 .inner-div1>button{
+    height: 30px;
+    width: 170px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* div5 starts from here */
+
+.div5{
+    background-color: rgb(249, 249, 249);
+    padding: 50px;
+    display: flex;
+}
+.div5 h1{
+    font-size: 70px ;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.div5 .btn1{
+    background-color: rgb(34, 161, 34);
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+.div5 .btn2{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+
+}
+.div5 .btn3{
+    background-color: rgb(247, 148, 137);
+    color: black;
+    margin-bottom: 10px;
+
+}
+.div5 button{
+    border-radius: 25px;
+    font-weight: bold;
+}
+.div5 h5{
+    font-size: 20px;
+}
+.div5 .inner-div1{
+    width: 50%;
+    text-align: center;
+}
+.div5 .inner-div2 {
+    background-color: rgb(207, 207, 207);
+    padding: 30px;
+}
+.div5 .sec{
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    overflow-y: scroll;
+    border-left: 5px solid rgb(28, 169, 28);
+}
+
+.div5 .inner-div2>button{
+    margin-top: 10px;
+    background-color: rgb(18, 152, 18);
+    color: white;
+    height: 30px;
+    width: 140px;
+    font-weight: bold;
+}
+
+.div5 .inner-div1>button{
+    height: 30px;
+    width: 170px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* div6 starts from here */
+
+.div6{
+    background-color: rgb(97, 216, 236);
+    padding: 50px;
+    display: flex;
+}
+.div6 h1{
+    font-size: 70px ;
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+.div6 .btn1{
+    background-color: rgb(34, 161, 34);
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+.div6 .btn2{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+
+}
+.div6 .btn3{
+    background-color: rgb(247, 148, 137);
+    color: black;
+    margin-bottom: 10px;
+
+}
+.div6 button{
+    border-radius: 25px;
+    font-weight: bold;
+}
+.div6 h5{
+    font-size: 20px;
+}
+.div6 .inner-div1{
+    width: 50%;
+    text-align: center;
+}
+.div6 .inner-div2 {
+    background-color: rgb(207, 207, 207);
+    padding: 30px;
+}
+.div6 .sec{
+    height: 250px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    overflow-y: scroll;
+    border-left: 5px solid rgb(28, 169, 28);
+}
+
+.div6 .inner-div2>button{
+    margin-top: 10px;
+    background-color: rgb(18, 152, 18);
+    color: white;
+    height: 30px;
+    width: 140px;
+    font-weight: bold;
+}
+
+.div6 .inner-div1>button{
+    height: 30px;
+    width: 170px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Header Parts navigation panel */
+
+header{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+ol li a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 18px;
+    padding: 0px;
+}
+ol li{
+    list-style-type: none;
+    display: inline;
+    margin: 15px;
+}
+header img{
+    margin:10px 10px 10px 20px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+header img:hover{
+    opacity: 1.4;
+}
+ .nav1{
+    margin-top: 0px;
+    background-color: rgb(42, 42, 42);
+    padding: 10px;
+    position: sticky;
+    top: 60;
+    z-index: 1;
+}
+.nav1 a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 5px;
+}
+.nav1 a:hover{
+    background-color: rgb(2, 2, 2);
+}
+
+header button{
+    border-radius: 24px;
+    height: 40px;
+    width: 120px;
+}
+
+.btn1{
+    background-color:transparent;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    
+}
+header .btn2{
+    background-color:transparent;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    margin-right: 70px;
+
+}
+.not{
+    opacity: 0.6;
+}
+.not:hover{
+    opacity: 1.2;
+    color: rgb(3, 85, 3);
+}
+.btn3{
+    background-color: rgb(18, 188, 18);
+    cursor: pointer;
+    color: whitesmoke;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.btn4{
+    background-color: rgb(206, 232, 255);
+    margin-left:0px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+nav ol li a:hover{
+    background-color: rgb(32, 220, 32);
+}
+
+.box1 > .one{
+    background-color: rgb(231, 153, 144);
+    height: 250px;
+    width: 50%;
+    margin: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+
+}
+
+.box1 > .two{
+    background-color: rgb(214, 234, 143);
+    height: 250px;
+    width: calc(100% - 50%);
+    margin: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+
+}
+
+.box1{
+    display: flex;
+}
+
+
+.box2 > .three{
+    background-color: rgb(240, 236, 236);
+    height: 250px;
+    width: 50%;
+    margin: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+
+
+}
+
+.box2 > .four{
+    background-color: rgb(134, 227, 232);
+    height: 250px;
+    width: calc(100% - 50%);
+    margin: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+
+
+}
+
+.box2{
+    display: flex;
+}
+
+.box3 > .five{
+    background-color: rgb(103, 243, 236);
+    height: 250px;
+    width: 50%;
+    margin: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+
+}
+
+.box3 > .six{
+    background-color: rgb(198, 198, 198);
+    height: 250px;
+    width: calc(100% - 50%);
+    margin: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;
+
+
+}
+
+.box3{
+    display: flex;
+}
+
+.box1,.box2,.box3{
+    text-align: center;
+    padding: 10px;
+}
+
+.box1 h3{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.box2 h3{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.box3 h3{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.box4 h3{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main button{
+    border-radius: 24px;
+    height: 40px;
+    width: 170px;
+    color: whitesmoke;
+    font-weight: bold;
+    background-color: rgb(30, 30, 30);
+    margin-top: 10px;
+
+}
+
+.main h6{
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.main{
+    background-color: rgb(62, 61, 61);
+}
+
+.box4 > .seven{
+    background-color: rgb(227, 165, 158);
+    height: 150px;
+    width: 50%;
+    margin: 40px;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    opacity: 0.8;
+
+
+}
+
+.box4 > .eight{
+    background-color: rgb(255, 255, 179);
+    height: 150px;
+    width: calc(100% - 50%);
+    margin: 40px;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.box4{
+    display: flex;
+}
+
+.box1>.one:hover{
+    opacity: 1.4;
+}
+.box1>.two:hover{
+    opacity: 1.4;
+}.box2>.three:hover{
+    opacity: 1.4;
+}.box2>.four:hover{
+    opacity: 1.4;
+}.box3>.five:hover{
+    opacity: 1.4;
+}.box3>.six:hover{
+    opacity: 1.4;
+}
+.box4>.seven:hover{
+    opacity: 1.4;
+}.box4>.eight:hover{
+    opacity: 1.4;
+}
+
+.box5>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+.box5{
+    display: flex;
+}
+
+.box5 .b1{
+    background-color: rgb(219, 216, 216);
+}
+.box5 .b2{
+    background-color: rgb(140, 238, 212);
+}
+.box5 .b3{
+    background-color: rgb(62, 193, 210);
+}
+.box5 .b4{
+    background-color: rgb(248, 167, 167);
+}
+
+.box6>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box6{
+    display: flex;
+}
+
+.box6 .b1{
+    background-color: rgb(230, 255, 141);
+}
+.box6 .b2{
+    background-color: rgb(219, 216, 216);
+}
+.box6 .b3{
+    background-color: rgb(140, 238, 212);
+}
+.box6 .b4{
+    background-color: rgb(76, 246, 255);
+}
+
+.box7>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box7{
+    display: flex;
+}
+
+.box7 .b1{
+    background-color: rgb(248, 167, 167);;
+}
+.box7 .b2{
+    background-color: rgb(230, 255, 141);
+}
+.box7 .b3{
+    background-color: rgb(219, 216, 216);
+}
+.box7 .b4{
+    background-color: rgb(140, 238, 212);
+}
+
+.box8>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box8{
+    display: flex;
+}
+
+.box8 .b1{
+    background-color: rgb(76, 246, 255);
+}
+.box8 .b2{
+    background-color: rgb(248, 167, 167);;
+}
+.box8 .b3{
+    background-color: rgb(230, 255, 141);
+}
+.box8 .b4{
+    background-color: rgb(219, 216, 216);
+}
+
+.box9>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box9{
+    display: flex;
+}
+
+.box9 .b1{
+    background-color: rgb(219, 216, 216);
+}
+.box9 .b2{
+    background-color: rgb(76, 246, 255);
+}
+.box9 .b3{
+    background-color: rgb(248, 167, 167);
+}
+.box9 .b4{
+    background-color: rgb(230, 255, 141);
+}
+
+.box10>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box10{
+    display: flex;
+}
+
+.box10 .b1{
+    background-color: rgb(219, 216, 216);
+}
+.box10 .b2{
+    background-color: rgb(140, 238, 212);
+}
+.box10 .b3{
+    background-color: rgb(76, 246, 255);
+}
+.box10 .b4{
+    background-color: rgb(248, 167, 167);
+}
+
+
+.box11>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box11{
+    display: flex;
+}
+
+.box11 .b1{
+    background-color: rgb(230, 255, 141);
+}
+.box11 .b2{
+    background-color: rgb(219, 216, 216);
+}
+.box11 .b3{
+    background-color: rgb(62, 193, 210);
+}
+.box11 .b4{
+    background-color: rgb(76, 246, 255);
+}
+
+
+.box12>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box12{
+    display: flex;
+}
+
+.box12 .b1{
+    background-color: rgb(248, 167, 167);;
+}
+.box12 .b2{
+    background-color: rgb(230, 255, 141);
+}
+.box12 .b3{
+    background-color: rgb(219, 216, 216);
+}
+.box12 .b4{
+    background-color: rgb(62, 193, 210);
+}
+
+
+.box13>div{
+    height: 120px;
+    width: 25%;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+.box13{
+    display: flex;
+}
+
+.box13 .b1{
+    background-color: rgb(76, 246, 255);
+}
+.box13 .b2{
+    background-color: rgb(140, 238, 212);
+}
+.box13 .b3{
+    background-color: rgb(230, 255, 141);
+}
+.box13 .b4{
+    background-color: rgb(219, 216, 216);
+}
+
+.box14 > .b1{
+    background-color: rgb(76, 246, 255);
+    height: 120px;
+    width: 50%;
+    margin: 40px;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    opacity: 0.8;
+    text-align: center;
+
+
+}
+
+.box14 > .b2{
+    background-color: rgb(230, 255, 141);
+    height: 120px;
+    width: calc(100% - 50%);
+    margin: 40px;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    opacity: 0.8;
+    text-align: center;
+
+}
+
+.box14{
+    display: flex;
+}
+
+.box15 > .b1{
+    background-color: rgb(227, 165, 158);
+    height: 120px;
+    width: 50%;
+    margin: 40px;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    opacity: 0.8;
+    text-align: center;
+
+}
+
+.box15 > .b2{
+    background-color: rgb(254, 254, 251);
+    height: 120px;
+    width: calc(100% - 50%);
+    margin: 40px;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.box15{
+    display: flex;
+}
+
+.box14 .b1:hover,.b2:hover{
+    opacity: 1.4;
+}
+
+.box15 .b1:hover,.b2:hover{
+    opacity: 1.4;
+}
+
+.courses h3{
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.courses >div{
+    opacity: 0.8;
+}
+
+.courses>div:hover{
+    opacity: 1.4;
+}
+
+
+.tagcolor{
+    color: rgb(25, 25, 227);
+}
+.tagname{
+    color: rgb(109, 27, 27);
+}
+.attr{
+    color: rgb(246, 16, 16);
+}
+.sec{
+    padding: 10px;
+}
+
+header>.btn1:hover{
+    background-color: rgb(141, 140, 140);
+    border: 1px solid gainsboro;
+}
+header>.btn2:hover{
+    background-color:rgb(141, 140, 140) ;
+    border: 1px solid gainsboro;
+}
+header>.btn1{
+    color: black;
+    font-size: 15px;
+}
+header>.btn2{
+    color: black;
+    font-size: 15px;
+}
+header>.btn3{
+    color: whitesmoke;
+    font-size: 15px;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+}
+header>.btn4{
+    background-color: transparent;
+    color: rgb(17, 17, 17);
+    border: 1px solid gainsboro ;
+    font-size: 15px;
+    font-weight: bold;
+}
+header>.btn4:hover{
+    color: black;
+}
+
+header .btn2 i{
+    color: rgb(92, 187, 92);
+}
+
+.try{
+    opacity: 0.8;;
+    border: none;
+}
+
+.try:hover{
+    opacity: 1.4;
+    border: 1px solid gainsboro;
+}
+
+header nav ol li a select {
+    border: none;
+    background-color: transparent;
+    font-size: 15px;
+}
+
